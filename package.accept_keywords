@@ -1,0 +1,5 @@
+www-client/firefox ~amd64
+dev-libs/nss ~amd64
+media-fonts/ricty ~amd64
+media-fonts/koruri ~amd64
+media-fonts/mix-mplus-ipa ~amd64
